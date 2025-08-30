@@ -4,4 +4,5 @@
     <color name="colorPrimaryDark">{{ cookiecutter.primary_color_dark }}</color>
     <color name="colorAccent">{{ cookiecutter.accent_color }}</color>
     <color name="colorSplashScreenBackground">{{ cookiecutter.splash_background_color }}</color>
+    <color name="splash_background">#345746</color>
 </resources>
